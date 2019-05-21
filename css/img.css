@@ -1,0 +1,10 @@
+.imageslide{
+  width: 25%;
+  margin: auto;
+  
+
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
