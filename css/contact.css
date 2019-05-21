@@ -1,7 +1,27 @@
 .contact_text {
     color: white;
-
 }
 .contact_name {
     color: white;
+}
+.email_address {
+    color: white;
+
+}
+.subject {
+    color: white;
+}
+.message {
+    color: white;
+}
+.message_box {
+    width: 350px;
+    height: 150px;
+}
+.subject_box {
+    width: 350px;
+    height: 30px;
+}
+.email_address_box {
+    width: 350px;
 }
